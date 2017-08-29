@@ -1,4 +1,5 @@
 Hello world.
 This is a simple test.
 Please
-end
+Please!
+Hi! My name is oshiro.
