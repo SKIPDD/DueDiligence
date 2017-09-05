@@ -1,5 +1,3 @@
 Hello world.
-This is a simple test.
-Please
-Please!
-Hi! My name is oshiro.
+This is a simple text file for trial of GitHub Operation within the team.
+これはGitHub業務検証用のシンプルなテキストファイルです。
