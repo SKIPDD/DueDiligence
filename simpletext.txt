@@ -1,3 +1,0 @@
-Hello world.
-This is a simple text file for trial of GitHub Operation within the team.
-これはGitHub業務検証用のシンプルなテキストファイルです。
